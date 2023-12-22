@@ -1,0 +1,3 @@
+#Must run the server before starting program
+Create popup for user to select port to user 
+make password to set password for user in port 
